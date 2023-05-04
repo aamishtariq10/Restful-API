@@ -1,5 +1,5 @@
 {
-    "db" : "mongodb://localhost:27017/Crud",
+    "db" : "mongodb+srv://aamish:12aamish34@cluster0.ubffyry.mongodb.net/?retryWrites=true&w=majority/Restapi",
     "jwtPrivateKey" : "someprivatekey"
 
 }

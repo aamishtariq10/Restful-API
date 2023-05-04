@@ -4,7 +4,5 @@ function validateLogin(req, res ,next){
     if (error)
     return res.status(404).send(error.details[0].message);
     next();
-
-
 }
 module.exports = validateLogin;
